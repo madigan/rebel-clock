@@ -8,6 +8,9 @@ primary_region = 'atl'
 
 [build]
 
+[env]
+  VITE_GOOGLE_CLIENT_ID = '939646942886-1ur1kf4vgq1im89i26igcfn6n2uf7600.apps.googleusercontent.com'
+
 [http_service]
   internal_port = 80
   force_https = true
